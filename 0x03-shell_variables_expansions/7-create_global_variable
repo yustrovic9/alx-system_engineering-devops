@@ -1,3 +1,2 @@
 #!/bin/bash
 export BEST="School"
-chmod u+x 7-create_global_variable

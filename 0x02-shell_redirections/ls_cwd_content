@@ -1,0 +1,22 @@
+total 88
+drwxr-xr-x 2 root root  4096 Apr  5 23:11 .
+drwxr-xr-x 7 root root   215 Apr  5 14:51 ..
+-rwxr--r-- 1 root root    32 Apr  5 06:33 0-hello_world
+-rw-r--r-- 1 root root     0 Apr  5 06:56 1-confused
+-rwxr--r-- 1 root root    28 Apr  5 10:32 1-confused_smiley
+-rw-r--r-- 1 root root 12288 Apr  5 07:04 .1-confused_smiley.swp
+-rwxr--r-- 1 root root    28 Apr  5 11:41 2-hellofile
+-rwxr--r-- 1 root root    39 Apr  5 11:48 3-twofiles
+-rw-r--r-- 1 root root    21 Apr  5 12:01 4-lastines
+-rwxr--r-- 1 root root    33 Apr  5 12:34 4-lastlines
+-rw-r--r-- 1 root root     0 Apr  5 11:50 4-lastliness
+-rwxr--r-- 1 root root    29 Apr  5 13:29 5-firstlines
+-rwxr--r-- 1 root root    40 Apr  5 13:33 6-third_line
+-rwxr--r-- 1 root root    86 Apr  5 22:56 7-file
+-rwxr--r-- 1 root root    36 Apr  5 23:08 8-cwd_state
+-rw-r--r-- 1 root root 12288 Apr  5 14:32 .8-cwd_state.swp
+-rw-r--r-- 1 root root    12 Apr  5 22:59 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw------- 1 root root 12288 Apr  5 23:04 .cat.swp
+-rw-r--r-- 1 root root     0 Apr  5 23:11 ls_cwd_content
+-rw-r--r-- 1 root root    16 Apr  5 04:46 README.md
+-rw-r--r-- 1 root root     0 Apr  5 06:56 smiley

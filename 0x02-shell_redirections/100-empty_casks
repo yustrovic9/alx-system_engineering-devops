@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'find . -empty -printf "%f\n" >> 100-empty_casks
+echo 'find . -empty | rev | cut -d '/' -f 1 | rev

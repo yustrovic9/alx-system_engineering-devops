@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'ls -t | head -10' >> 12-newest_files
+echo 'ls -t | head' >> 12-newest_files
